@@ -1,4 +1,4 @@
-# intro
+## Know me...
 
 <h1 align="center">Hi/Hola/Namaskar 👋, I'm SRIJA DUTTA.</h1>
 <h3 align="center">An AI Enthusiast & Full Stack Developer </h3>
