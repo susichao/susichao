@@ -1,7 +1,7 @@
 # intro
-know me!
+
 <h1 align="center">Hi/Hola/Namaskar 👋, I'm SRIJA DUTTA.</h1>
-<h3 align="center">An AI Enthusiast with full stack Development skills from India </h3> .
+<h3 align="center">An AI Enthusiast & Full Stack Developer </h3>
 <h4 align="center">I aim to leverage AI to cultivate a society where individuals flourish amidst the vibrant digital landscape.</h4>
 
 
