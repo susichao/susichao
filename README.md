@@ -9,7 +9,7 @@
 
 - 🔭 thank you visiting my portfolio [here](https://srijadutta.vercel.app/)
 
-- 💬 Ask me about **anything.** -**srijadutta0420@gmail.com**
+- 💬 Ask me about **anything** at **srijadutta0420@gmail.com**
 
 - ⚡ Fun fact **i like to keep it as a secret😉**
 
