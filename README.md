@@ -1,4 +1,4 @@
-## WhoAmI...
+## Who Am I ?
 
 <h1 align="center">Hi👋, I'm SRIJA DUTTA !!!</h1>
 <h3 align="center">An AI Enthusiast & Full Stack Developer </h3>
