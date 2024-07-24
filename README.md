@@ -1,6 +1,6 @@
 ## Know me...
 
-<h1 align="center">Hi/Hola/Namaskar 👋, I'm SRIJA DUTTA.</h1>
+<h1 align="center">Hi👋, I'm SRIJA DUTTA !!!</h1>
 <h3 align="center">An AI Enthusiast & Full Stack Developer </h3>
 <h4 align="center">I aim to leverage AI to cultivate a society where individuals flourish amidst the vibrant digital landscape.</h4>
 
